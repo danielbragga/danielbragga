@@ -11,7 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbragga&layout=compact&langs_count=7&theme=react"/>
 </div>
   
-
 ## Technologies used in my day
 
 <div style="display: inline_block"> <br/>
