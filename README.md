@@ -1,8 +1,8 @@
 ## Olá, sou Daniel Braga 👋
 
 - 📚 Mechatronics Engineering at IFCE - Federal Institute Of Education, Science and Technology Of Ceará
-- 💻 Front End Developer at LAPISCO - Laboratory for Processing Image, Signals and Computer Science
-- 🍀22 years
+- 💻 Fullstack Developer at GPM Soluções 
+- 🍀23 years
 - 📍Fortaleza, CE  
 
 <div align="center">
